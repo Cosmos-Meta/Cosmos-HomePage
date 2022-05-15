@@ -27,4 +27,4 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
-          token: ${{secrets.cosmos-homepage}}
+          token: ${{secrets.DEPLOY_TOKEN}}
