@@ -1,4 +1,4 @@
-workname: Deploy HomePage
+name: Deploy HomePage
 
 on:
   push:
